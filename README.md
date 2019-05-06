@@ -1,3 +1,5 @@
+[![npm version](https://badge.fury.io/js/paykickstart-validator.svg)](https://badge.fury.io/js/paykickstart-validator)
+
 # PayKickstart Validator
 
 A package that validates incoming IPN notifications from PayKickstart.
@@ -94,3 +96,5 @@ Secret key for the PK campaign. You can find it in the campaign settings page.
 # Tests
 
 I test this package on a bunch of real-world cases but I don't want to release that test data to the public. If you have some IPN notifications from PK that you won't mind being shared here, please open an issue.
+
+# License
