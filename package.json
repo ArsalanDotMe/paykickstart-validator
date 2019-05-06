@@ -1,0 +1,33 @@
+{
+  "name": "paykickstart-validator",
+  "version": "1.0.0",
+  "description": "A package that validates incoming IPN notifications from PayKickstart",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"No public tests yet.\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ArsalanDotMe/paykickstart-validator.git"
+  },
+  "keywords": [
+    "paykickstart",
+    "payment",
+    "ipn"
+  ],
+  "author": "Arsalan Ahmad <contact@arsalan.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArsalanDotMe/paykickstart-validator/issues"
+  },
+  "homepage": "https://github.com/ArsalanDotMe/paykickstart-validator#readme",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "lodash": "^4.17.11"
+  },
+  "devDependencies": {
+    "@types/crypto-js": "^3.1.43",
+    "@types/lodash": "^4.14.123"
+  }
+}
