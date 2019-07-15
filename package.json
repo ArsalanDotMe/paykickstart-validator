@@ -1,6 +1,6 @@
 {
   "name": "paykickstart-validator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A package that validates incoming IPN notifications from PayKickstart",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
